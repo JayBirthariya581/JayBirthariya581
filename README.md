@@ -13,7 +13,7 @@
 
   
 
-<img  align="right"  alt="Coding"  width="400"  src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://drive.google.com/uc?id=1vDCPtm-ou2z4gYrORb-4noITyg2G1pji)">
+<img  align="right"  alt="Coding"  width="400"  src="https://drive.google.com/uc?id=1vDCPtm-ou2z4gYrORb-4noITyg2G1pji">
 
   
 
