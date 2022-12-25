@@ -65,8 +65,7 @@
 
   
 
-[![Jay's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=jaybirthariya581&&theme=xcode)](https://github.com/JayBirthariya581)
-
+[![Jay's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jaybirthariya581&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 
 <p><img  align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=jaybirthariya581&show_icons=true&locale=en&layout=compact&theme=tokyonight"  alt="jaybirthariya581"  /></p>
