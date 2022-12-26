@@ -9,7 +9,7 @@
 
   
 
-<h3  align="center">I am an Android app developer with a passion for creating intuitive and efficient apps. Currently, I am working on developing a whole management system for GearToCare using Android. In addition to my experience with Android development, I am also actively learning new technologies such as React. I am always looking for opportunities to collaborate with fellow developers and learn from their experiences. In my free time, I enjoy staying up-to-date with the latest developments in the Android ecosystem and expanding my skillset by exploring new technologies.</h3>
+<h4  align="center">I am an Android app developer with a passion for creating intuitive and efficient apps. Currently, I am working on developing a whole management system for GearToCare using Android. In addition to my experience with Android development, I am also actively learning new technologies such as React. I am always looking for opportunities to collaborate with fellow developers and learn from their experiences. In my free time, I enjoy staying up-to-date with the latest developments in the Android ecosystem and expanding my skillset by exploring new technologies.</h4>
 
   
 
