@@ -1,7 +1,7 @@
 
   
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://jaybirthariya581.io)
+[![MasterHead](https://miro.medium.com/max/1200/1*e3jNfHQGTe7f7ptGpa74yA.png)](https://jaybirthariya581.io)
 
   
 
