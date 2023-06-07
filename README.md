@@ -17,11 +17,9 @@
 and here](https://drive.google.com/uc?id=1vDCPtm-ou2z4gYrORb-4noITyg2G1pji)
 --> 
 
-<img  align="right"  alt="Coding"  width="400"  src="https://images6.alphacoders.com/815/815043.png">
+<img  align="right"  alt="Coding"  width="400"  src="https://img.icons8.com/?size=512&id=48250&format=png">
 
   
-
-<p  align="left">  <img  src="https://img.icons8.com/?size=512&id=48250&format=png"  alt="jaybirthariya581"  />  </p>
 
   
 
