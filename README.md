@@ -21,7 +21,7 @@ and here](https://drive.google.com/uc?id=1vDCPtm-ou2z4gYrORb-4noITyg2G1pji)
 
   
 
-<p  align="left">  <img  src="[https://komarev.com/ghpvc/?username=jaybirthariya581&label=Profile%20views&color=0e75b6&style=flat](https://www.flaticon.com/free-icon/code_1157109?term=code&page=1&position=40&origin=search&related_id=1157109#)"  alt="jaybirthariya581"  />  </p>
+<p  align="left">  <img  src="https://img.icons8.com/?size=512&id=48250&format=png"  alt="jaybirthariya581"  />  </p>
 
   
 
